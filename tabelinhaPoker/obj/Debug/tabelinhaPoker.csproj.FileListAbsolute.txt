@@ -1,0 +1,15 @@
+c:\users\luizg\onedrive\documentos\visual studio 2017\Projects\tabelinhaPoker\tabelinhaPoker\obj\Debug\tabelinhaPoker.csprojResolveAssemblyReference.cache
+c:\users\luizg\onedrive\documentos\visual studio 2017\Projects\tabelinhaPoker\tabelinhaPoker\obj\Debug\tabelinhaPoker.Tablinha.resources
+c:\users\luizg\onedrive\documentos\visual studio 2017\Projects\tabelinhaPoker\tabelinhaPoker\obj\Debug\tabelinhaPoker.Properties.Resources.resources
+c:\users\luizg\onedrive\documentos\visual studio 2017\Projects\tabelinhaPoker\tabelinhaPoker\obj\Debug\tabelinhaPoker.csproj.GenerateResource.Cache
+c:\users\luizg\onedrive\documentos\visual studio 2017\Projects\tabelinhaPoker\tabelinhaPoker\bin\Debug\tabelinhaPoker.exe.config
+c:\users\luizg\onedrive\documentos\visual studio 2017\Projects\tabelinhaPoker\tabelinhaPoker\bin\Debug\tabelinhaPoker.exe
+c:\users\luizg\onedrive\documentos\visual studio 2017\Projects\tabelinhaPoker\tabelinhaPoker\bin\Debug\tabelinhaPoker.pdb
+c:\users\luizg\onedrive\documentos\visual studio 2017\Projects\tabelinhaPoker\tabelinhaPoker\obj\Debug\tabelinhaPoker.exe
+c:\users\luizg\onedrive\documentos\visual studio 2017\Projects\tabelinhaPoker\tabelinhaPoker\obj\Debug\tabelinhaPoker.pdb
+c:\users\luizg\onedrive\documentos\visual studio 2017\Projects\tabelinhaPoker\tabelinhaPoker\bin\Debug\tabelinhaPoker.exe.manifest
+c:\users\luizg\onedrive\documentos\visual studio 2017\Projects\tabelinhaPoker\tabelinhaPoker\bin\Debug\tabelinhaPoker.application
+c:\users\luizg\onedrive\documentos\visual studio 2017\Projects\tabelinhaPoker\tabelinhaPoker\obj\Debug\tabelinhaPoker.exe.manifest
+c:\users\luizg\onedrive\documentos\visual studio 2017\Projects\tabelinhaPoker\tabelinhaPoker\obj\Debug\tabelinhaPoker.application
+C:\Users\luizg\OneDrive\Documentos\Visual Studio 2017\Projects\tabelinhaPoker\tabelinhaPoker\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\luizg\OneDrive\Documentos\Visual Studio 2017\Projects\tabelinhaPoker\tabelinhaPoker\obj\Debug\tabelinhaPoker.csproj.ResolveComReference.cache
